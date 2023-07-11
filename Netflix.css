@@ -1,0 +1,198 @@
+* {
+    margin: 0px;
+}
+
+#home {
+    background-color: black;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#flex {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+#home h1 {
+    color: red;
+    margin: 5px 300px 0px 10px;
+}
+
+.language {
+    background-color: transparent;
+    color: white;
+    padding: 3px;
+    margin: 8px 15px;
+    cursor: pointer;
+}
+
+.button {
+    background-color: red;
+    color: white;
+    padding: 4px 5px;
+    border: 1px red;
+    border-radius: 3px;
+    margin: 8px;
+    cursor: pointer;
+}
+
+#home h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 1000;
+    margin-bottom: 10px;
+}
+
+#home h5 {
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.start {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.start input {
+    align-content: center;
+    color: white;
+    padding: 5px;
+    border: 1px black;
+    background-color: rgba(255, 0, 255, 0.231);
+    margin-right: 5px;
+}
+
+.start button {
+    align-content: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border: 1px red;
+    border-radius: 3px;
+    background-color: red;
+    cursor: pointer;
+}
+
+#space {
+    padding: 30px;
+}
+
+.entertain {
+    background-color: black;
+    display: flex;
+}
+
+.entertain h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: 1000;
+    margin: 60px 0px 10px 20px;
+}
+
+.entertain h5 {
+    color: white;
+    margin: 10px 0px 10px 20px;
+}
+
+.entertain img {
+    height: 250px;
+    width: 350px;
+}
+
+#video {
+    height: 250px;
+    width: 700px;
+    background-image: url("tvs.jpg");
+    background-size: cover;
+}
+
+#tv {
+    height: 250px;
+    width: 250px;
+    padding: 0px 45px;
+}
+
+#video2 {
+    height: 250px;
+    width: 700px;
+    background-image: url("tv.jpg");
+    background-size: cover;
+}
+
+#movie {
+    height: 180px;
+    width: 200px;
+    padding: 0px 50px 0px 80px;
+}
+
+#Questions {
+    background-color: black;
+}
+
+#Questions h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: 1000;
+    text-align: center;
+    padding: 10px;
+}
+
+#Questions h3 {
+    color: white;
+    font-family: normal;
+    font-size: 20px;
+    font-weight: 100;
+    margin: 10px 20px 10px 20px;
+    padding: 5px;
+    border: 1px black;
+    background-color: rgba(255, 0, 255, 0.231);
+}
+
+#Questions a {
+    color: white;
+    text-decoration: none;
+    float: right;
+    margin-right: 10px;
+}
+
+#Questions h5 {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+#footer {
+    background-color: black;
+}
+
+#footer h5 {
+    color: white;
+    padding: 20px 50px 10px 50px;
+}
+
+#footer div {
+    display: flex;
+}
+
+#footer div ul {
+    padding: 10px 50px;
+}
+
+
+
+#footer li {
+    padding-bottom: 15px;
+    list-style-type: none;
+}
+
+#footer a {
+    color: white;
+}
+
+#footer h6 {
+    color: white;
+    padding: 5px 0px 20px 20px;
+}
